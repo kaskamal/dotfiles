@@ -1,0 +1,70 @@
+{
+    "editor.smoothScrolling": true,
+    "files.associations": {
+      "*.fasta": "plaintext"
+    },
+    "editor.largeFileOptimizations": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "2077",
+    "team.showWelcomeMessage": false,
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontWeight": "bold",
+    "editor.fontWeight": "bold",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderLineHighlight": "none",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.folding": false,
+    "editor.occurrencesHighlight": false,
+    "editor.matchBrackets": true,
+    "editor.glyphMargin": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.tabCloseButton": "off",
+    "indenticator.color.dark": "rgba(255,255,255,.1)",
+    "workbench.statusBar.visible": false,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": false,
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+  
+    "editor.renderWhitespace": "all",
+  
+    "workbench.colorCustomizations": {
+      "editorWhitespace.foreground": "#91918d"
+    },
+    "files.exclude": {
+      "**/.git": false
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorCustomizations": {
+      "editorError.foreground":   "#00000000",
+      "editorWarning.foreground": "#00000000",
+      "editorInfo.foreground":    "#00000000"
+    },
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "team.showFarewellMessage": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+}
