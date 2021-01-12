@@ -67,4 +67,5 @@
     "gitlens.codeLens.authors.enabled": false,
     "gitlens.codeLens.recentChange.enabled": false,
     "editor.acceptSuggestionOnEnter": "off",
+    "workbench.startupEditor": "newUntitledFile",
 }
